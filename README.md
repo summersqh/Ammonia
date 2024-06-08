@@ -1,2 +1,2 @@
 # Ammonia
-This is the code and data for life cycle assessment of ammonia production.
+This is the code and data for life-cycle environmental impact and levelized cost of ammonia calculation
